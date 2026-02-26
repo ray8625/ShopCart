@@ -10,6 +10,7 @@ namespace ShopCart.Controllers
     {
         public ActionResult Index()
         {
+            // test
             return View();
         }
 
